@@ -14,3 +14,6 @@ class Solution:
                 nums[i] = nums[i] * -1
 
         return result
+    
+    #Time Complextiy = o(n)
+    #Space Complexity - O(1)
